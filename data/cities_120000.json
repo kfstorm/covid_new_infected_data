@@ -1,0 +1,66 @@
+[
+    {
+        "cityCode": "120101",
+        "label": "和平区"
+    },
+    {
+        "cityCode": "120102",
+        "label": "河东区"
+    },
+    {
+        "cityCode": "120103",
+        "label": "河西区"
+    },
+    {
+        "cityCode": "120104",
+        "label": "南开区"
+    },
+    {
+        "cityCode": "120105",
+        "label": "河北区"
+    },
+    {
+        "cityCode": "120106",
+        "label": "红桥区"
+    },
+    {
+        "cityCode": "120110",
+        "label": "东丽区"
+    },
+    {
+        "cityCode": "120111",
+        "label": "西青区"
+    },
+    {
+        "cityCode": "120112",
+        "label": "津南区"
+    },
+    {
+        "cityCode": "120113",
+        "label": "北辰区"
+    },
+    {
+        "cityCode": "120114",
+        "label": "武清区"
+    },
+    {
+        "cityCode": "120115",
+        "label": "宝坻区"
+    },
+    {
+        "cityCode": "120116",
+        "label": "滨海新区"
+    },
+    {
+        "cityCode": "120117",
+        "label": "宁河区"
+    },
+    {
+        "cityCode": "120118",
+        "label": "静海区"
+    },
+    {
+        "cityCode": "120119",
+        "label": "蓟州区"
+    }
+]

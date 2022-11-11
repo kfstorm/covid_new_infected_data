@@ -1,0 +1,592 @@
+[
+    {
+        "asymptomAdd": 0,
+        "confirm": 960,
+        "date": "20220913",
+        "day": "09.13",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 960
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 986,
+        "date": "20220914",
+        "day": "09.14",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 986
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 1125,
+        "date": "20220915",
+        "day": "09.15",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 1125
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 1008,
+        "date": "20220916",
+        "day": "09.16",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 1008
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 960,
+        "date": "20220917",
+        "day": "09.17",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 960
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 814,
+        "date": "20220918",
+        "day": "09.18",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 814
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 695,
+        "date": "20220919",
+        "day": "09.19",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 695
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 607,
+        "date": "20220920",
+        "day": "09.20",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 607
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 707,
+        "date": "20220921",
+        "day": "09.21",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 707
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 651,
+        "date": "20220922",
+        "day": "09.22",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 651
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 1561,
+        "date": "20220923",
+        "day": "09.23",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 1561
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 564,
+        "date": "20220924",
+        "day": "09.24",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 564
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 527,
+        "date": "20220925",
+        "day": "09.25",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 527
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 516,
+        "date": "20220926",
+        "day": "09.26",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 516
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 453,
+        "date": "20220927",
+        "day": "09.27",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 453
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 540,
+        "date": "20220928",
+        "day": "09.28",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 540
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 520,
+        "date": "20220929",
+        "day": "09.29",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 520
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 479,
+        "date": "20220930",
+        "day": "09.30",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 479
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 489,
+        "date": "20221001",
+        "day": "10.01",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 489
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 429,
+        "date": "20221002",
+        "day": "10.02",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 429
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 480,
+        "date": "20221003",
+        "day": "10.03",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 480
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 495,
+        "date": "20221004",
+        "day": "10.04",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 495
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 641,
+        "date": "20221005",
+        "day": "10.05",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 641
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 598,
+        "date": "20221006",
+        "day": "10.06",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 598
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 622,
+        "date": "20221007",
+        "day": "10.07",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 622
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 614,
+        "date": "20221008",
+        "day": "10.08",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 614
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 598,
+        "date": "20221009",
+        "day": "10.09",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 598
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 661,
+        "date": "20221010",
+        "day": "10.10",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 661
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 595,
+        "date": "20221011",
+        "day": "10.11",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 595
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 789,
+        "date": "20221012",
+        "day": "10.12",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 789
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 666,
+        "date": "20221013",
+        "day": "10.13",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 666
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 682,
+        "date": "20221014",
+        "day": "10.14",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 682
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 741,
+        "date": "20221015",
+        "day": "10.15",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 741
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 791,
+        "date": "20221016",
+        "day": "10.16",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 791
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 714,
+        "date": "20221017",
+        "day": "10.17",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 714
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 653,
+        "date": "20221018",
+        "day": "10.18",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 653
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 652,
+        "date": "20221019",
+        "day": "10.19",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 652
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 514,
+        "date": "20221020",
+        "day": "10.20",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 514
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 533,
+        "date": "20221021",
+        "day": "10.21",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 533
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 926,
+        "date": "20221022",
+        "day": "10.22",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 926
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 714,
+        "date": "20221023",
+        "day": "10.23",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 714
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 691,
+        "date": "20221024",
+        "day": "10.24",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 691
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 638,
+        "date": "20221025",
+        "day": "10.25",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 638
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 840,
+        "date": "20221026",
+        "day": "10.26",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 840
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 766,
+        "date": "20221027",
+        "day": "10.27",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 766
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 801,
+        "date": "20221028",
+        "day": "10.28",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 801
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 685,
+        "date": "20221029",
+        "day": "10.29",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 685
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 678,
+        "date": "20221030",
+        "day": "10.30",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 678
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 645,
+        "date": "20221031",
+        "day": "10.31",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 645
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 636,
+        "date": "20221101",
+        "day": "11.01",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 636
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 726,
+        "date": "20221102",
+        "day": "11.02",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 726
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 576,
+        "date": "20221103",
+        "day": "11.03",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 576
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 405,
+        "date": "20221104",
+        "day": "11.04",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 405
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 706,
+        "date": "20221105",
+        "day": "11.05",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 706
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 582,
+        "date": "20221106",
+        "day": "11.06",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 582
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 624,
+        "date": "20221107",
+        "day": "11.07",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 624
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 395,
+        "date": "20221108",
+        "day": "11.08",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 395
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 792,
+        "date": "20221109",
+        "day": "11.09",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 792
+    },
+    {
+        "asymptomAdd": 0,
+        "confirm": 734,
+        "date": "20221110",
+        "day": "11.10",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 0,
+        "localAdd": 734
+    }
+]

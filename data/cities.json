@@ -1,0 +1,2066 @@
+[
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "110000",
+                "label": "北京"
+            }
+        ],
+        "cityCode": "110000",
+        "label": "北京"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "120000",
+                "label": "天津"
+            }
+        ],
+        "cityCode": "120000",
+        "label": "天津"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "130100",
+                "label": "石家庄"
+            },
+            {
+                "children": [],
+                "cityCode": "130181",
+                "label": "辛集市"
+            },
+            {
+                "children": [],
+                "cityCode": "130200",
+                "label": "唐山"
+            },
+            {
+                "children": [],
+                "cityCode": "130300",
+                "label": "秦皇岛"
+            },
+            {
+                "children": [],
+                "cityCode": "130400",
+                "label": "邯郸"
+            },
+            {
+                "children": [],
+                "cityCode": "130500",
+                "label": "邢台"
+            },
+            {
+                "children": [],
+                "cityCode": "130600",
+                "label": "保定"
+            },
+            {
+                "children": [],
+                "cityCode": "130682",
+                "label": "定州"
+            },
+            {
+                "children": [],
+                "cityCode": "130700",
+                "label": "张家口"
+            },
+            {
+                "children": [],
+                "cityCode": "130800",
+                "label": "承德"
+            },
+            {
+                "children": [],
+                "cityCode": "130900",
+                "label": "沧州"
+            },
+            {
+                "children": [],
+                "cityCode": "131000",
+                "label": "廊坊"
+            },
+            {
+                "children": [],
+                "cityCode": "131100",
+                "label": "衡水"
+            },
+            {
+                "children": [],
+                "cityCode": "131200",
+                "label": "雄安新区"
+            }
+        ],
+        "cityCode": "130000",
+        "label": "河北"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "140100",
+                "label": "太原"
+            },
+            {
+                "children": [],
+                "cityCode": "140200",
+                "label": "大同"
+            },
+            {
+                "children": [],
+                "cityCode": "140300",
+                "label": "阳泉"
+            },
+            {
+                "children": [],
+                "cityCode": "140400",
+                "label": "长治"
+            },
+            {
+                "children": [],
+                "cityCode": "140500",
+                "label": "晋城"
+            },
+            {
+                "children": [],
+                "cityCode": "140600",
+                "label": "朔州"
+            },
+            {
+                "children": [],
+                "cityCode": "140700",
+                "label": "晋中"
+            },
+            {
+                "children": [],
+                "cityCode": "140800",
+                "label": "运城"
+            },
+            {
+                "children": [],
+                "cityCode": "140900",
+                "label": "忻州"
+            },
+            {
+                "children": [],
+                "cityCode": "141000",
+                "label": "临汾"
+            },
+            {
+                "children": [],
+                "cityCode": "141100",
+                "label": "吕梁"
+            }
+        ],
+        "cityCode": "140000",
+        "label": "山西"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "150100",
+                "label": "呼和浩特"
+            },
+            {
+                "children": [],
+                "cityCode": "150200",
+                "label": "包头"
+            },
+            {
+                "children": [],
+                "cityCode": "150300",
+                "label": "乌海"
+            },
+            {
+                "children": [],
+                "cityCode": "150400",
+                "label": "赤峰"
+            },
+            {
+                "children": [],
+                "cityCode": "150500",
+                "label": "通辽"
+            },
+            {
+                "children": [],
+                "cityCode": "150600",
+                "label": "鄂尔多斯"
+            },
+            {
+                "children": [],
+                "cityCode": "150700",
+                "label": "呼伦贝尔"
+            },
+            {
+                "children": [],
+                "cityCode": "150800",
+                "label": "巴彦淖尔"
+            },
+            {
+                "children": [],
+                "cityCode": "150900",
+                "label": "乌兰察布"
+            },
+            {
+                "children": [],
+                "cityCode": "152200",
+                "label": "兴安盟"
+            },
+            {
+                "children": [],
+                "cityCode": "152500",
+                "label": "锡林郭勒"
+            },
+            {
+                "children": [],
+                "cityCode": "152900",
+                "label": "阿拉善盟"
+            }
+        ],
+        "cityCode": "150000",
+        "label": "内蒙古"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "210100",
+                "label": "沈阳"
+            },
+            {
+                "children": [],
+                "cityCode": "210200",
+                "label": "大连"
+            },
+            {
+                "children": [],
+                "cityCode": "210300",
+                "label": "鞍山"
+            },
+            {
+                "children": [],
+                "cityCode": "210400",
+                "label": "抚顺"
+            },
+            {
+                "children": [],
+                "cityCode": "210500",
+                "label": "本溪"
+            },
+            {
+                "children": [],
+                "cityCode": "210600",
+                "label": "丹东"
+            },
+            {
+                "children": [],
+                "cityCode": "210700",
+                "label": "锦州"
+            },
+            {
+                "children": [],
+                "cityCode": "210800",
+                "label": "营口"
+            },
+            {
+                "children": [],
+                "cityCode": "210900",
+                "label": "阜新"
+            },
+            {
+                "children": [],
+                "cityCode": "211000",
+                "label": "辽阳"
+            },
+            {
+                "children": [],
+                "cityCode": "211100",
+                "label": "盘锦"
+            },
+            {
+                "children": [],
+                "cityCode": "211200",
+                "label": "铁岭"
+            },
+            {
+                "children": [],
+                "cityCode": "211300",
+                "label": "朝阳市"
+            },
+            {
+                "children": [],
+                "cityCode": "211400",
+                "label": "葫芦岛"
+            }
+        ],
+        "cityCode": "210000",
+        "label": "辽宁"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "220100",
+                "label": "长春"
+            },
+            {
+                "children": [],
+                "cityCode": "220200",
+                "label": "吉林市"
+            },
+            {
+                "children": [],
+                "cityCode": "220300",
+                "label": "四平"
+            },
+            {
+                "children": [],
+                "cityCode": "220400",
+                "label": "辽源"
+            },
+            {
+                "children": [],
+                "cityCode": "220500",
+                "label": "通化"
+            },
+            {
+                "children": [],
+                "cityCode": "220581",
+                "label": "梅河口市"
+            },
+            {
+                "children": [],
+                "cityCode": "220600",
+                "label": "白山"
+            },
+            {
+                "children": [],
+                "cityCode": "220700",
+                "label": "松原"
+            },
+            {
+                "children": [],
+                "cityCode": "220800",
+                "label": "白城"
+            },
+            {
+                "children": [],
+                "cityCode": "222400",
+                "label": "延边"
+            },
+            {
+                "children": [],
+                "cityCode": "222501",
+                "label": "长白山管委会"
+            }
+        ],
+        "cityCode": "220000",
+        "label": "吉林省"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "230100",
+                "label": "哈尔滨"
+            },
+            {
+                "children": [],
+                "cityCode": "230200",
+                "label": "齐齐哈尔"
+            },
+            {
+                "children": [],
+                "cityCode": "230300",
+                "label": "鸡西"
+            },
+            {
+                "children": [],
+                "cityCode": "230400",
+                "label": "鹤岗"
+            },
+            {
+                "children": [],
+                "cityCode": "230500",
+                "label": "双鸭山"
+            },
+            {
+                "children": [],
+                "cityCode": "230600",
+                "label": "大庆"
+            },
+            {
+                "children": [],
+                "cityCode": "230700",
+                "label": "伊春"
+            },
+            {
+                "children": [],
+                "cityCode": "230800",
+                "label": "佳木斯"
+            },
+            {
+                "children": [],
+                "cityCode": "230900",
+                "label": "七台河"
+            },
+            {
+                "children": [],
+                "cityCode": "231000",
+                "label": "牡丹江"
+            },
+            {
+                "children": [],
+                "cityCode": "231100",
+                "label": "黑河"
+            },
+            {
+                "children": [],
+                "cityCode": "231200",
+                "label": "绥化"
+            },
+            {
+                "children": [],
+                "cityCode": "232700",
+                "label": "大兴安岭"
+            }
+        ],
+        "cityCode": "230000",
+        "label": "黑龙江"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "310000",
+                "label": "上海"
+            }
+        ],
+        "cityCode": "310000",
+        "label": "上海"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "320100",
+                "label": "南京"
+            },
+            {
+                "children": [],
+                "cityCode": "320200",
+                "label": "无锡"
+            },
+            {
+                "children": [],
+                "cityCode": "320300",
+                "label": "徐州"
+            },
+            {
+                "children": [],
+                "cityCode": "320400",
+                "label": "常州"
+            },
+            {
+                "children": [],
+                "cityCode": "320500",
+                "label": "苏州"
+            },
+            {
+                "children": [],
+                "cityCode": "320600",
+                "label": "南通"
+            },
+            {
+                "children": [],
+                "cityCode": "320700",
+                "label": "连云港"
+            },
+            {
+                "children": [],
+                "cityCode": "320800",
+                "label": "淮安"
+            },
+            {
+                "children": [],
+                "cityCode": "320900",
+                "label": "盐城"
+            },
+            {
+                "children": [],
+                "cityCode": "321000",
+                "label": "扬州"
+            },
+            {
+                "children": [],
+                "cityCode": "321100",
+                "label": "镇江"
+            },
+            {
+                "children": [],
+                "cityCode": "321200",
+                "label": "泰州"
+            },
+            {
+                "children": [],
+                "cityCode": "321300",
+                "label": "宿迁"
+            }
+        ],
+        "cityCode": "320000",
+        "label": "江苏"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "330100",
+                "label": "杭州"
+            },
+            {
+                "children": [],
+                "cityCode": "330200",
+                "label": "宁波"
+            },
+            {
+                "children": [],
+                "cityCode": "330300",
+                "label": "温州"
+            },
+            {
+                "children": [],
+                "cityCode": "330400",
+                "label": "嘉兴"
+            },
+            {
+                "children": [],
+                "cityCode": "330500",
+                "label": "湖州"
+            },
+            {
+                "children": [],
+                "cityCode": "330600",
+                "label": "绍兴"
+            },
+            {
+                "children": [],
+                "cityCode": "330700",
+                "label": "金华"
+            },
+            {
+                "children": [],
+                "cityCode": "330800",
+                "label": "衢州"
+            },
+            {
+                "children": [],
+                "cityCode": "330900",
+                "label": "舟山"
+            },
+            {
+                "children": [],
+                "cityCode": "331000",
+                "label": "台州"
+            },
+            {
+                "children": [],
+                "cityCode": "331100",
+                "label": "丽水"
+            }
+        ],
+        "cityCode": "330000",
+        "label": "浙江"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "340100",
+                "label": "合肥"
+            },
+            {
+                "children": [],
+                "cityCode": "340200",
+                "label": "芜湖"
+            },
+            {
+                "children": [],
+                "cityCode": "340300",
+                "label": "蚌埠"
+            },
+            {
+                "children": [],
+                "cityCode": "340400",
+                "label": "淮南"
+            },
+            {
+                "children": [],
+                "cityCode": "340500",
+                "label": "马鞍山"
+            },
+            {
+                "children": [],
+                "cityCode": "340600",
+                "label": "淮北"
+            },
+            {
+                "children": [],
+                "cityCode": "340700",
+                "label": "铜陵"
+            },
+            {
+                "children": [],
+                "cityCode": "340800",
+                "label": "安庆"
+            },
+            {
+                "children": [],
+                "cityCode": "341000",
+                "label": "黄山"
+            },
+            {
+                "children": [],
+                "cityCode": "341100",
+                "label": "滁州"
+            },
+            {
+                "children": [],
+                "cityCode": "341200",
+                "label": "阜阳"
+            },
+            {
+                "children": [],
+                "cityCode": "341300",
+                "label": "宿州"
+            },
+            {
+                "children": [],
+                "cityCode": "341500",
+                "label": "六安"
+            },
+            {
+                "children": [],
+                "cityCode": "341600",
+                "label": "亳州"
+            },
+            {
+                "children": [],
+                "cityCode": "341700",
+                "label": "池州"
+            },
+            {
+                "children": [],
+                "cityCode": "341800",
+                "label": "宣城"
+            }
+        ],
+        "cityCode": "340000",
+        "label": "安徽"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "350100",
+                "label": "福州"
+            },
+            {
+                "children": [],
+                "cityCode": "350200",
+                "label": "厦门"
+            },
+            {
+                "children": [],
+                "cityCode": "350300",
+                "label": "莆田"
+            },
+            {
+                "children": [],
+                "cityCode": "350400",
+                "label": "三明"
+            },
+            {
+                "children": [],
+                "cityCode": "350500",
+                "label": "泉州"
+            },
+            {
+                "children": [],
+                "cityCode": "350600",
+                "label": "漳州"
+            },
+            {
+                "children": [],
+                "cityCode": "350700",
+                "label": "南平"
+            },
+            {
+                "children": [],
+                "cityCode": "350800",
+                "label": "龙岩"
+            },
+            {
+                "children": [],
+                "cityCode": "350900",
+                "label": "宁德"
+            },
+            {
+                "children": [],
+                "cityCode": "358100",
+                "label": "平潭综合实验区"
+            }
+        ],
+        "cityCode": "350000",
+        "label": "福建"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "360100",
+                "label": "南昌"
+            },
+            {
+                "children": [],
+                "cityCode": "360200",
+                "label": "景德镇"
+            },
+            {
+                "children": [],
+                "cityCode": "360300",
+                "label": "萍乡"
+            },
+            {
+                "children": [],
+                "cityCode": "360400",
+                "label": "九江"
+            },
+            {
+                "children": [],
+                "cityCode": "360500",
+                "label": "新余"
+            },
+            {
+                "children": [],
+                "cityCode": "360600",
+                "label": "鹰潭"
+            },
+            {
+                "children": [],
+                "cityCode": "360700",
+                "label": "赣州"
+            },
+            {
+                "children": [],
+                "cityCode": "360800",
+                "label": "吉安"
+            },
+            {
+                "children": [],
+                "cityCode": "360900",
+                "label": "宜春"
+            },
+            {
+                "children": [],
+                "cityCode": "361000",
+                "label": "抚州"
+            },
+            {
+                "children": [],
+                "cityCode": "361100",
+                "label": "上饶"
+            },
+            {
+                "children": [],
+                "cityCode": "368101",
+                "label": "赣江新区"
+            }
+        ],
+        "cityCode": "360000",
+        "label": "江西"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "370100",
+                "label": "济南"
+            },
+            {
+                "children": [],
+                "cityCode": "370200",
+                "label": "青岛"
+            },
+            {
+                "children": [],
+                "cityCode": "370300",
+                "label": "淄博"
+            },
+            {
+                "children": [],
+                "cityCode": "370400",
+                "label": "枣庄"
+            },
+            {
+                "children": [],
+                "cityCode": "370500",
+                "label": "东营"
+            },
+            {
+                "children": [],
+                "cityCode": "370600",
+                "label": "烟台"
+            },
+            {
+                "children": [],
+                "cityCode": "370700",
+                "label": "潍坊"
+            },
+            {
+                "children": [],
+                "cityCode": "370800",
+                "label": "济宁"
+            },
+            {
+                "children": [],
+                "cityCode": "370900",
+                "label": "泰安"
+            },
+            {
+                "children": [],
+                "cityCode": "371000",
+                "label": "威海"
+            },
+            {
+                "children": [],
+                "cityCode": "371100",
+                "label": "日照"
+            },
+            {
+                "children": [],
+                "cityCode": "371300",
+                "label": "临沂"
+            },
+            {
+                "children": [],
+                "cityCode": "371400",
+                "label": "德州"
+            },
+            {
+                "children": [],
+                "cityCode": "371500",
+                "label": "聊城"
+            },
+            {
+                "children": [],
+                "cityCode": "371600",
+                "label": "滨州"
+            },
+            {
+                "children": [],
+                "cityCode": "371700",
+                "label": "菏泽"
+            }
+        ],
+        "cityCode": "370000",
+        "label": "山东"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "410100",
+                "label": "郑州"
+            },
+            {
+                "children": [],
+                "cityCode": "410200",
+                "label": "开封"
+            },
+            {
+                "children": [],
+                "cityCode": "410300",
+                "label": "洛阳"
+            },
+            {
+                "children": [],
+                "cityCode": "410400",
+                "label": "平顶山"
+            },
+            {
+                "children": [],
+                "cityCode": "410500",
+                "label": "安阳"
+            },
+            {
+                "children": [],
+                "cityCode": "410600",
+                "label": "鹤壁"
+            },
+            {
+                "children": [],
+                "cityCode": "410700",
+                "label": "新乡"
+            },
+            {
+                "children": [],
+                "cityCode": "410800",
+                "label": "焦作"
+            },
+            {
+                "children": [],
+                "cityCode": "410900",
+                "label": "濮阳"
+            },
+            {
+                "children": [],
+                "cityCode": "411000",
+                "label": "许昌"
+            },
+            {
+                "children": [],
+                "cityCode": "411100",
+                "label": "漯河"
+            },
+            {
+                "children": [],
+                "cityCode": "411200",
+                "label": "三门峡"
+            },
+            {
+                "children": [],
+                "cityCode": "411300",
+                "label": "南阳"
+            },
+            {
+                "children": [],
+                "cityCode": "411400",
+                "label": "商丘"
+            },
+            {
+                "children": [],
+                "cityCode": "411500",
+                "label": "信阳"
+            },
+            {
+                "children": [],
+                "cityCode": "411600",
+                "label": "周口"
+            },
+            {
+                "children": [],
+                "cityCode": "411700",
+                "label": "驻马店"
+            },
+            {
+                "children": [],
+                "cityCode": "419001",
+                "label": "济源示范区"
+            }
+        ],
+        "cityCode": "410000",
+        "label": "河南"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "420100",
+                "label": "武汉"
+            },
+            {
+                "children": [],
+                "cityCode": "420200",
+                "label": "黄石"
+            },
+            {
+                "children": [],
+                "cityCode": "420300",
+                "label": "十堰"
+            },
+            {
+                "children": [],
+                "cityCode": "420500",
+                "label": "宜昌"
+            },
+            {
+                "children": [],
+                "cityCode": "420600",
+                "label": "襄阳"
+            },
+            {
+                "children": [],
+                "cityCode": "420700",
+                "label": "鄂州"
+            },
+            {
+                "children": [],
+                "cityCode": "420800",
+                "label": "荆门"
+            },
+            {
+                "children": [],
+                "cityCode": "420900",
+                "label": "孝感"
+            },
+            {
+                "children": [],
+                "cityCode": "421000",
+                "label": "荆州"
+            },
+            {
+                "children": [],
+                "cityCode": "421100",
+                "label": "黄冈"
+            },
+            {
+                "children": [],
+                "cityCode": "421200",
+                "label": "咸宁"
+            },
+            {
+                "children": [],
+                "cityCode": "421300",
+                "label": "随州"
+            },
+            {
+                "children": [],
+                "cityCode": "422800",
+                "label": "恩施州"
+            },
+            {
+                "children": [],
+                "cityCode": "429004",
+                "label": "仙桃"
+            },
+            {
+                "children": [],
+                "cityCode": "429005",
+                "label": "潜江"
+            },
+            {
+                "children": [],
+                "cityCode": "429006",
+                "label": "天门"
+            },
+            {
+                "children": [],
+                "cityCode": "429021",
+                "label": "神农架"
+            }
+        ],
+        "cityCode": "420000",
+        "label": "湖北"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "430100",
+                "label": "长沙"
+            },
+            {
+                "children": [],
+                "cityCode": "430200",
+                "label": "株洲"
+            },
+            {
+                "children": [],
+                "cityCode": "430300",
+                "label": "湘潭"
+            },
+            {
+                "children": [],
+                "cityCode": "430400",
+                "label": "衡阳"
+            },
+            {
+                "children": [],
+                "cityCode": "430500",
+                "label": "邵阳"
+            },
+            {
+                "children": [],
+                "cityCode": "430600",
+                "label": "岳阳"
+            },
+            {
+                "children": [],
+                "cityCode": "430700",
+                "label": "常德"
+            },
+            {
+                "children": [],
+                "cityCode": "430800",
+                "label": "张家界"
+            },
+            {
+                "children": [],
+                "cityCode": "430900",
+                "label": "益阳"
+            },
+            {
+                "children": [],
+                "cityCode": "431000",
+                "label": "郴州"
+            },
+            {
+                "children": [],
+                "cityCode": "431100",
+                "label": "永州"
+            },
+            {
+                "children": [],
+                "cityCode": "431200",
+                "label": "怀化"
+            },
+            {
+                "children": [],
+                "cityCode": "431300",
+                "label": "娄底"
+            },
+            {
+                "children": [],
+                "cityCode": "433100",
+                "label": "湘西自治州"
+            }
+        ],
+        "cityCode": "430000",
+        "label": "湖南"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "440100",
+                "label": "广州"
+            },
+            {
+                "children": [],
+                "cityCode": "440200",
+                "label": "韶关"
+            },
+            {
+                "children": [],
+                "cityCode": "440300",
+                "label": "深圳"
+            },
+            {
+                "children": [],
+                "cityCode": "440400",
+                "label": "珠海"
+            },
+            {
+                "children": [],
+                "cityCode": "440500",
+                "label": "汕头"
+            },
+            {
+                "children": [],
+                "cityCode": "440600",
+                "label": "佛山"
+            },
+            {
+                "children": [],
+                "cityCode": "440700",
+                "label": "江门"
+            },
+            {
+                "children": [],
+                "cityCode": "440800",
+                "label": "湛江"
+            },
+            {
+                "children": [],
+                "cityCode": "440900",
+                "label": "茂名"
+            },
+            {
+                "children": [],
+                "cityCode": "441200",
+                "label": "肇庆"
+            },
+            {
+                "children": [],
+                "cityCode": "441300",
+                "label": "惠州"
+            },
+            {
+                "children": [],
+                "cityCode": "441400",
+                "label": "梅州"
+            },
+            {
+                "children": [],
+                "cityCode": "441500",
+                "label": "汕尾"
+            },
+            {
+                "children": [],
+                "cityCode": "441600",
+                "label": "河源"
+            },
+            {
+                "children": [],
+                "cityCode": "441700",
+                "label": "阳江"
+            },
+            {
+                "children": [],
+                "cityCode": "441800",
+                "label": "清远"
+            },
+            {
+                "children": [],
+                "cityCode": "441900",
+                "label": "东莞"
+            },
+            {
+                "children": [],
+                "cityCode": "442000",
+                "label": "中山"
+            },
+            {
+                "children": [],
+                "cityCode": "445100",
+                "label": "潮州"
+            },
+            {
+                "children": [],
+                "cityCode": "445200",
+                "label": "揭阳"
+            },
+            {
+                "children": [],
+                "cityCode": "445300",
+                "label": "云浮"
+            }
+        ],
+        "cityCode": "440000",
+        "label": "广东"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "450100",
+                "label": "南宁"
+            },
+            {
+                "children": [],
+                "cityCode": "450200",
+                "label": "柳州"
+            },
+            {
+                "children": [],
+                "cityCode": "450300",
+                "label": "桂林"
+            },
+            {
+                "children": [],
+                "cityCode": "450400",
+                "label": "梧州"
+            },
+            {
+                "children": [],
+                "cityCode": "450500",
+                "label": "北海"
+            },
+            {
+                "children": [],
+                "cityCode": "450600",
+                "label": "防城港"
+            },
+            {
+                "children": [],
+                "cityCode": "450700",
+                "label": "钦州"
+            },
+            {
+                "children": [],
+                "cityCode": "450800",
+                "label": "贵港"
+            },
+            {
+                "children": [],
+                "cityCode": "450900",
+                "label": "玉林"
+            },
+            {
+                "children": [],
+                "cityCode": "451000",
+                "label": "百色"
+            },
+            {
+                "children": [],
+                "cityCode": "451100",
+                "label": "贺州"
+            },
+            {
+                "children": [],
+                "cityCode": "451200",
+                "label": "河池"
+            },
+            {
+                "children": [],
+                "cityCode": "451300",
+                "label": "来宾"
+            },
+            {
+                "children": [],
+                "cityCode": "451400",
+                "label": "崇左"
+            }
+        ],
+        "cityCode": "450000",
+        "label": "广西"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "460100",
+                "label": "海口"
+            },
+            {
+                "children": [],
+                "cityCode": "460200",
+                "label": "三亚"
+            },
+            {
+                "children": [],
+                "cityCode": "460300",
+                "label": "三沙"
+            },
+            {
+                "children": [],
+                "cityCode": "460400",
+                "label": "儋州"
+            },
+            {
+                "children": [],
+                "cityCode": "469001",
+                "label": "五指山市"
+            },
+            {
+                "children": [],
+                "cityCode": "469002",
+                "label": "琼海"
+            },
+            {
+                "children": [],
+                "cityCode": "469005",
+                "label": "文昌"
+            },
+            {
+                "children": [],
+                "cityCode": "469006",
+                "label": "万宁"
+            },
+            {
+                "children": [],
+                "cityCode": "469007",
+                "label": "东方"
+            },
+            {
+                "children": [],
+                "cityCode": "469021",
+                "label": "定安县"
+            },
+            {
+                "children": [],
+                "cityCode": "469022",
+                "label": "屯昌"
+            },
+            {
+                "children": [],
+                "cityCode": "469023",
+                "label": "澄迈县"
+            },
+            {
+                "children": [],
+                "cityCode": "469024",
+                "label": "临高县"
+            },
+            {
+                "children": [],
+                "cityCode": "469025",
+                "label": "白沙"
+            },
+            {
+                "children": [],
+                "cityCode": "469026",
+                "label": "昌江县"
+            },
+            {
+                "children": [],
+                "cityCode": "469027",
+                "label": "乐东"
+            },
+            {
+                "children": [],
+                "cityCode": "469028",
+                "label": "陵水县"
+            },
+            {
+                "children": [],
+                "cityCode": "469029",
+                "label": "保亭"
+            },
+            {
+                "children": [],
+                "cityCode": "469030",
+                "label": "琼中县"
+            }
+        ],
+        "cityCode": "460000",
+        "label": "海南"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "500000",
+                "label": "重庆"
+            }
+        ],
+        "cityCode": "500000",
+        "label": "重庆"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "510100",
+                "label": "成都"
+            },
+            {
+                "children": [],
+                "cityCode": "510300",
+                "label": "自贡"
+            },
+            {
+                "children": [],
+                "cityCode": "510400",
+                "label": "攀枝花"
+            },
+            {
+                "children": [],
+                "cityCode": "510500",
+                "label": "泸州"
+            },
+            {
+                "children": [],
+                "cityCode": "510600",
+                "label": "德阳"
+            },
+            {
+                "children": [],
+                "cityCode": "510700",
+                "label": "绵阳"
+            },
+            {
+                "children": [],
+                "cityCode": "510800",
+                "label": "广元"
+            },
+            {
+                "children": [],
+                "cityCode": "510900",
+                "label": "遂宁"
+            },
+            {
+                "children": [],
+                "cityCode": "511000",
+                "label": "内江"
+            },
+            {
+                "children": [],
+                "cityCode": "511100",
+                "label": "乐山"
+            },
+            {
+                "children": [],
+                "cityCode": "511300",
+                "label": "南充"
+            },
+            {
+                "children": [],
+                "cityCode": "511400",
+                "label": "眉山"
+            },
+            {
+                "children": [],
+                "cityCode": "511500",
+                "label": "宜宾"
+            },
+            {
+                "children": [],
+                "cityCode": "511600",
+                "label": "广安"
+            },
+            {
+                "children": [],
+                "cityCode": "511700",
+                "label": "达州"
+            },
+            {
+                "children": [],
+                "cityCode": "511800",
+                "label": "雅安"
+            },
+            {
+                "children": [],
+                "cityCode": "511900",
+                "label": "巴中"
+            },
+            {
+                "children": [],
+                "cityCode": "512000",
+                "label": "资阳"
+            },
+            {
+                "children": [],
+                "cityCode": "513200",
+                "label": "阿坝"
+            },
+            {
+                "children": [],
+                "cityCode": "513300",
+                "label": "甘孜"
+            },
+            {
+                "children": [],
+                "cityCode": "513400",
+                "label": "凉山"
+            }
+        ],
+        "cityCode": "510000",
+        "label": "四川"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "520100",
+                "label": "贵阳"
+            },
+            {
+                "children": [],
+                "cityCode": "520200",
+                "label": "六盘水"
+            },
+            {
+                "children": [],
+                "cityCode": "520300",
+                "label": "遵义"
+            },
+            {
+                "children": [],
+                "cityCode": "520400",
+                "label": "安顺"
+            },
+            {
+                "children": [],
+                "cityCode": "520500",
+                "label": "毕节"
+            },
+            {
+                "children": [],
+                "cityCode": "520600",
+                "label": "铜仁"
+            },
+            {
+                "children": [],
+                "cityCode": "522300",
+                "label": "黔西南州"
+            },
+            {
+                "children": [],
+                "cityCode": "522600",
+                "label": "黔东南州"
+            },
+            {
+                "children": [],
+                "cityCode": "522700",
+                "label": "黔南州"
+            }
+        ],
+        "cityCode": "520000",
+        "label": "贵州"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "530100",
+                "label": "昆明"
+            },
+            {
+                "children": [],
+                "cityCode": "530300",
+                "label": "曲靖"
+            },
+            {
+                "children": [],
+                "cityCode": "530400",
+                "label": "玉溪"
+            },
+            {
+                "children": [],
+                "cityCode": "530500",
+                "label": "保山市"
+            },
+            {
+                "children": [],
+                "cityCode": "530600",
+                "label": "昭通市"
+            },
+            {
+                "children": [],
+                "cityCode": "530700",
+                "label": "丽江市"
+            },
+            {
+                "children": [],
+                "cityCode": "530800",
+                "label": "普洱"
+            },
+            {
+                "children": [],
+                "cityCode": "530900",
+                "label": "临沧"
+            },
+            {
+                "children": [],
+                "cityCode": "532300",
+                "label": "楚雄州"
+            },
+            {
+                "children": [],
+                "cityCode": "532500",
+                "label": "红河"
+            },
+            {
+                "children": [],
+                "cityCode": "532600",
+                "label": "文山州"
+            },
+            {
+                "children": [],
+                "cityCode": "532800",
+                "label": "西双版纳州"
+            },
+            {
+                "children": [],
+                "cityCode": "532900",
+                "label": "大理"
+            },
+            {
+                "children": [],
+                "cityCode": "533100",
+                "label": "德宏州"
+            },
+            {
+                "children": [],
+                "cityCode": "533300",
+                "label": "怒江州"
+            },
+            {
+                "children": [],
+                "cityCode": "533400",
+                "label": "迪庆州"
+            }
+        ],
+        "cityCode": "530000",
+        "label": "云南"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "540100",
+                "label": "拉萨"
+            },
+            {
+                "children": [],
+                "cityCode": "540200",
+                "label": "日喀则"
+            },
+            {
+                "children": [],
+                "cityCode": "540300",
+                "label": "昌都"
+            },
+            {
+                "children": [],
+                "cityCode": "540400",
+                "label": "林芝"
+            },
+            {
+                "children": [],
+                "cityCode": "540500",
+                "label": "山南"
+            },
+            {
+                "children": [],
+                "cityCode": "540600",
+                "label": "那曲"
+            },
+            {
+                "children": [],
+                "cityCode": "542500",
+                "label": "阿里地区"
+            }
+        ],
+        "cityCode": "540000",
+        "label": "西藏"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "610100",
+                "label": "西安"
+            },
+            {
+                "children": [],
+                "cityCode": "610200",
+                "label": "铜川"
+            },
+            {
+                "children": [],
+                "cityCode": "610300",
+                "label": "宝鸡"
+            },
+            {
+                "children": [],
+                "cityCode": "610400",
+                "label": "咸阳"
+            },
+            {
+                "children": [],
+                "cityCode": "610500",
+                "label": "渭南"
+            },
+            {
+                "children": [],
+                "cityCode": "610600",
+                "label": "延安"
+            },
+            {
+                "children": [],
+                "cityCode": "610700",
+                "label": "汉中"
+            },
+            {
+                "children": [],
+                "cityCode": "610800",
+                "label": "榆林"
+            },
+            {
+                "children": [],
+                "cityCode": "610900",
+                "label": "安康"
+            },
+            {
+                "children": [],
+                "cityCode": "611000",
+                "label": "商洛"
+            },
+            {
+                "children": [],
+                "cityCode": "611101",
+                "label": "杨凌"
+            }
+        ],
+        "cityCode": "610000",
+        "label": "陕西"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "620100",
+                "label": "兰州"
+            },
+            {
+                "children": [],
+                "cityCode": "620200",
+                "label": "嘉峪关"
+            },
+            {
+                "children": [],
+                "cityCode": "620300",
+                "label": "金昌"
+            },
+            {
+                "children": [],
+                "cityCode": "620400",
+                "label": "白银"
+            },
+            {
+                "children": [],
+                "cityCode": "620500",
+                "label": "天水"
+            },
+            {
+                "children": [],
+                "cityCode": "620600",
+                "label": "武威"
+            },
+            {
+                "children": [],
+                "cityCode": "620700",
+                "label": "张掖"
+            },
+            {
+                "children": [],
+                "cityCode": "620800",
+                "label": "平凉"
+            },
+            {
+                "children": [],
+                "cityCode": "620900",
+                "label": "酒泉"
+            },
+            {
+                "children": [],
+                "cityCode": "621000",
+                "label": "庆阳"
+            },
+            {
+                "children": [],
+                "cityCode": "621100",
+                "label": "定西"
+            },
+            {
+                "children": [],
+                "cityCode": "621200",
+                "label": "陇南"
+            },
+            {
+                "children": [],
+                "cityCode": "622900",
+                "label": "临夏"
+            },
+            {
+                "children": [],
+                "cityCode": "623000",
+                "label": "甘南州"
+            }
+        ],
+        "cityCode": "620000",
+        "label": "甘肃"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "630100",
+                "label": "西宁"
+            },
+            {
+                "children": [],
+                "cityCode": "630200",
+                "label": "海东"
+            },
+            {
+                "children": [],
+                "cityCode": "632200",
+                "label": "海北州"
+            },
+            {
+                "children": [],
+                "cityCode": "632300",
+                "label": "黄南州"
+            },
+            {
+                "children": [],
+                "cityCode": "632500",
+                "label": "海南州"
+            },
+            {
+                "children": [],
+                "cityCode": "632600",
+                "label": "果洛州"
+            },
+            {
+                "children": [],
+                "cityCode": "632700",
+                "label": "玉树州"
+            },
+            {
+                "children": [],
+                "cityCode": "632800",
+                "label": "海西州"
+            }
+        ],
+        "cityCode": "630000",
+        "label": "青海"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "640100",
+                "label": "银川"
+            },
+            {
+                "children": [],
+                "cityCode": "640200",
+                "label": "石嘴山"
+            },
+            {
+                "children": [],
+                "cityCode": "640300",
+                "label": "吴忠"
+            },
+            {
+                "children": [],
+                "cityCode": "640400",
+                "label": "固原"
+            },
+            {
+                "children": [],
+                "cityCode": "640500",
+                "label": "中卫"
+            }
+        ],
+        "cityCode": "640000",
+        "label": "宁夏"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "650100",
+                "label": "乌鲁木齐"
+            },
+            {
+                "children": [],
+                "cityCode": "650200",
+                "label": "克拉玛依"
+            },
+            {
+                "children": [],
+                "cityCode": "650400",
+                "label": "吐鲁番"
+            },
+            {
+                "children": [],
+                "cityCode": "650500",
+                "label": "哈密"
+            },
+            {
+                "children": [],
+                "cityCode": "652300",
+                "label": "昌吉州"
+            },
+            {
+                "children": [],
+                "cityCode": "652700",
+                "label": "博尔塔拉州"
+            },
+            {
+                "children": [],
+                "cityCode": "652800",
+                "label": "巴音郭楞州"
+            },
+            {
+                "children": [],
+                "cityCode": "652900",
+                "label": "阿克苏"
+            },
+            {
+                "children": [],
+                "cityCode": "653000",
+                "label": "克州"
+            },
+            {
+                "children": [],
+                "cityCode": "653100",
+                "label": "喀什"
+            },
+            {
+                "children": [],
+                "cityCode": "653200",
+                "label": "和田"
+            },
+            {
+                "children": [],
+                "cityCode": "654000",
+                "label": "伊犁哈萨克自治州"
+            },
+            {
+                "children": [],
+                "cityCode": "654200",
+                "label": "塔城"
+            },
+            {
+                "children": [],
+                "cityCode": "654300",
+                "label": "阿勒泰"
+            },
+            {
+                "children": [],
+                "cityCode": "659001",
+                "label": "第八师石河子"
+            },
+            {
+                "children": [],
+                "cityCode": "659004",
+                "label": "六师五家渠"
+            },
+            {
+                "children": [],
+                "cityCode": "659008",
+                "label": "兵团第四师"
+            },
+            {
+                "children": [],
+                "cityCode": "659011",
+                "label": "兵团第十一师"
+            }
+        ],
+        "cityCode": "650000",
+        "label": "新疆"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "710000",
+                "label": "台湾"
+            }
+        ],
+        "cityCode": "710000",
+        "label": "台湾"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "810000",
+                "label": "香港"
+            }
+        ],
+        "cityCode": "810000",
+        "label": "香港"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "cityCode": "820000",
+                "label": "澳门"
+            }
+        ],
+        "cityCode": "820000",
+        "label": "澳门"
+    }
+]

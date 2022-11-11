@@ -1,0 +1,66 @@
+[
+    {
+        "cityCode": "110101",
+        "label": "东城"
+    },
+    {
+        "cityCode": "110102",
+        "label": "西城"
+    },
+    {
+        "cityCode": "110105",
+        "label": "朝阳"
+    },
+    {
+        "cityCode": "110106",
+        "label": "丰台"
+    },
+    {
+        "cityCode": "110107",
+        "label": "石景山"
+    },
+    {
+        "cityCode": "110108",
+        "label": "海淀"
+    },
+    {
+        "cityCode": "110109",
+        "label": "门头沟"
+    },
+    {
+        "cityCode": "110111",
+        "label": "房山"
+    },
+    {
+        "cityCode": "110112",
+        "label": "通州"
+    },
+    {
+        "cityCode": "110113",
+        "label": "顺义"
+    },
+    {
+        "cityCode": "110114",
+        "label": "昌平"
+    },
+    {
+        "cityCode": "110115",
+        "label": "大兴"
+    },
+    {
+        "cityCode": "110116",
+        "label": "怀柔"
+    },
+    {
+        "cityCode": "110117",
+        "label": "平谷区"
+    },
+    {
+        "cityCode": "110118",
+        "label": "密云"
+    },
+    {
+        "cityCode": "110119",
+        "label": "延庆"
+    }
+]

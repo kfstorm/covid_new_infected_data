@@ -1,0 +1,66 @@
+[
+    {
+        "cityCode": "310101",
+        "label": "黄浦"
+    },
+    {
+        "cityCode": "310104",
+        "label": "徐汇"
+    },
+    {
+        "cityCode": "310105",
+        "label": "长宁"
+    },
+    {
+        "cityCode": "310106",
+        "label": "静安"
+    },
+    {
+        "cityCode": "310107",
+        "label": "普陀"
+    },
+    {
+        "cityCode": "310109",
+        "label": "虹口"
+    },
+    {
+        "cityCode": "310110",
+        "label": "杨浦"
+    },
+    {
+        "cityCode": "310112",
+        "label": "闵行"
+    },
+    {
+        "cityCode": "310113",
+        "label": "宝山"
+    },
+    {
+        "cityCode": "310114",
+        "label": "嘉定"
+    },
+    {
+        "cityCode": "310115",
+        "label": "浦东"
+    },
+    {
+        "cityCode": "310116",
+        "label": "金山"
+    },
+    {
+        "cityCode": "310117",
+        "label": "松江"
+    },
+    {
+        "cityCode": "310118",
+        "label": "青浦"
+    },
+    {
+        "cityCode": "310120",
+        "label": "奉贤"
+    },
+    {
+        "cityCode": "310151",
+        "label": "崇明"
+    }
+]

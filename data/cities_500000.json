@@ -1,0 +1,166 @@
+[
+    {
+        "cityCode": "500101",
+        "label": "万州区"
+    },
+    {
+        "cityCode": "500102",
+        "label": "涪陵区"
+    },
+    {
+        "cityCode": "500103",
+        "label": "渝中区"
+    },
+    {
+        "cityCode": "500104",
+        "label": "大渡口区"
+    },
+    {
+        "cityCode": "500105",
+        "label": "江北区"
+    },
+    {
+        "cityCode": "500106",
+        "label": "沙坪坝区"
+    },
+    {
+        "cityCode": "500107",
+        "label": "九龙坡区"
+    },
+    {
+        "cityCode": "500108",
+        "label": "南岸区"
+    },
+    {
+        "cityCode": "500109",
+        "label": "北碚区"
+    },
+    {
+        "cityCode": "500110",
+        "label": "綦江区"
+    },
+    {
+        "cityCode": "500111",
+        "label": "大足区"
+    },
+    {
+        "cityCode": "500112",
+        "label": "渝北区"
+    },
+    {
+        "cityCode": "500113",
+        "label": "巴南区"
+    },
+    {
+        "cityCode": "500114",
+        "label": "黔江区"
+    },
+    {
+        "cityCode": "500115",
+        "label": "长寿区"
+    },
+    {
+        "cityCode": "500116",
+        "label": "江津区"
+    },
+    {
+        "cityCode": "500117",
+        "label": "合川区"
+    },
+    {
+        "cityCode": "500118",
+        "label": "永川区"
+    },
+    {
+        "cityCode": "500119",
+        "label": "南川区"
+    },
+    {
+        "cityCode": "500120",
+        "label": "璧山区"
+    },
+    {
+        "cityCode": "500151",
+        "label": "铜梁区"
+    },
+    {
+        "cityCode": "500152",
+        "label": "潼南区"
+    },
+    {
+        "cityCode": "500153",
+        "label": "荣昌区"
+    },
+    {
+        "cityCode": "500154",
+        "label": "开州区"
+    },
+    {
+        "cityCode": "500155",
+        "label": "梁平区"
+    },
+    {
+        "cityCode": "500156",
+        "label": "武隆区"
+    },
+    {
+        "cityCode": "500191",
+        "label": "两江新区"
+    },
+    {
+        "cityCode": "500192",
+        "label": "万盛经开区"
+    },
+    {
+        "cityCode": "500193",
+        "label": "高新区"
+    },
+    {
+        "cityCode": "500229",
+        "label": "城口县"
+    },
+    {
+        "cityCode": "500230",
+        "label": "丰都县"
+    },
+    {
+        "cityCode": "500231",
+        "label": "垫江县"
+    },
+    {
+        "cityCode": "500233",
+        "label": "忠县"
+    },
+    {
+        "cityCode": "500235",
+        "label": "云阳县"
+    },
+    {
+        "cityCode": "500236",
+        "label": "奉节县"
+    },
+    {
+        "cityCode": "500237",
+        "label": "巫山县"
+    },
+    {
+        "cityCode": "500238",
+        "label": "巫溪县"
+    },
+    {
+        "cityCode": "500240",
+        "label": "石柱县"
+    },
+    {
+        "cityCode": "500241",
+        "label": "秀山县"
+    },
+    {
+        "cityCode": "500242",
+        "label": "酉阳县"
+    },
+    {
+        "cityCode": "500243",
+        "label": "彭水县"
+    }
+]

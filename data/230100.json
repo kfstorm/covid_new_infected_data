@@ -1,0 +1,474 @@
+[
+    {
+        "confirm": 0,
+        "date": "20220913",
+        "day": "20220913",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220914",
+        "day": "20220914",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220915",
+        "day": "20220915",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220916",
+        "day": "20220916",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220917",
+        "day": "20220917",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220918",
+        "day": "20220918",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220919",
+        "day": "20220919",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 1,
+        "date": "20220920",
+        "day": "20220920",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 4,
+        "date": "20220921",
+        "day": "20220921",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "2"
+    },
+    {
+        "confirm": 5,
+        "date": "20220922",
+        "day": "20220922",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "4"
+    },
+    {
+        "confirm": 11,
+        "date": "20220923",
+        "day": "20220923",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "8"
+    },
+    {
+        "confirm": 5,
+        "date": "20220924",
+        "day": "20220924",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "5"
+    },
+    {
+        "confirm": 3,
+        "date": "20220925",
+        "day": "20220925",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "2"
+    },
+    {
+        "confirm": 3,
+        "date": "20220926",
+        "day": "20220926",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "2"
+    },
+    {
+        "confirm": 0,
+        "date": "20220927",
+        "day": "20220927",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 0,
+        "date": "20220928",
+        "day": "20220928",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 0,
+        "date": "20220929",
+        "day": "20220929",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20220930",
+        "day": "20220930",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221001",
+        "day": "20221001",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221002",
+        "day": "20221002",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 1,
+        "date": "20221003",
+        "day": "20221003",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 0,
+        "date": "20221004",
+        "day": "20221004",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "3"
+    },
+    {
+        "confirm": 4,
+        "date": "20221005",
+        "day": "20221005",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "7"
+    },
+    {
+        "confirm": 3,
+        "date": "20221006",
+        "day": "20221006",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "9"
+    },
+    {
+        "confirm": 1,
+        "date": "20221007",
+        "day": "20221007",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "4"
+    },
+    {
+        "confirm": 2,
+        "date": "20221008",
+        "day": "20221008",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "2"
+    },
+    {
+        "confirm": 1,
+        "date": "20221009",
+        "day": "20221009",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221010",
+        "day": "20221010",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 6,
+        "date": "20221011",
+        "day": "20221011",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "4"
+    },
+    {
+        "confirm": 2,
+        "date": "20221012",
+        "day": "20221012",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 9,
+        "date": "20221013",
+        "day": "20221013",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 25,
+        "date": "20221014",
+        "day": "20221014",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "5"
+    },
+    {
+        "confirm": 6,
+        "date": "20221015",
+        "day": "20221015",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 7,
+        "date": "20221016",
+        "day": "20221016",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 4,
+        "date": "20221017",
+        "day": "20221017",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 1,
+        "date": "20221018",
+        "day": "20221018",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221019",
+        "day": "20221019",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221020",
+        "day": "20221020",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221021",
+        "day": "20221021",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221022",
+        "day": "20221022",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221023",
+        "day": "20221023",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221024",
+        "day": "20221024",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221025",
+        "day": "20221025",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 0,
+        "date": "20221026",
+        "day": "20221026",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 1,
+        "date": "20221027",
+        "day": "20221027",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 1,
+        "date": "20221028",
+        "day": "20221028",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 5,
+        "date": "20221029",
+        "day": "20221029",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "5"
+    },
+    {
+        "confirm": 2,
+        "date": "20221030",
+        "day": "20221030",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "5"
+    },
+    {
+        "confirm": 1,
+        "date": "20221031",
+        "day": "20221031",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 3,
+        "date": "20221101",
+        "day": "20221101",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "3"
+    },
+    {
+        "confirm": 5,
+        "date": "20221102",
+        "day": "20221102",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "3"
+    },
+    {
+        "confirm": 10,
+        "date": "20221103",
+        "day": "20221103",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "5"
+    },
+    {
+        "confirm": 2,
+        "date": "20221104",
+        "day": "20221104",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "4"
+    },
+    {
+        "confirm": 5,
+        "date": "20221105",
+        "day": "20221105",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "7"
+    },
+    {
+        "confirm": 7,
+        "date": "20221106",
+        "day": "20221106",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "0"
+    },
+    {
+        "confirm": 2,
+        "date": "20221107",
+        "day": "20221107",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "4"
+    },
+    {
+        "confirm": 2,
+        "date": "20221108",
+        "day": "20221108",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "1"
+    },
+    {
+        "confirm": 7,
+        "date": "20221109",
+        "day": "20221109",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "3"
+    },
+    {
+        "confirm": 8,
+        "date": "20221110",
+        "day": "20221110",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "10"
+    }
+]
