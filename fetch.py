@@ -59,9 +59,34 @@ def get_history(city_code, is_province_level):
     return data
 
 
+def get_counties(city_code):
+    data = get_data(
+        f"{URL_PREFIX}/getCityInfoByProvCode",
+        {
+            "request": {"req": {"provinceCode": city_code}},
+        },
+    )
+    data = data["cityInfo"]
+    data = [{
+        "cityCode": county["cityCode"],
+        "label": county["city"]
+    } for county in data
+    if county["cityCode"]]
+
+    # Sort list by code to make sure the order is consistent
+    data.sort(key=lambda x: x["cityCode"])
+    if data:
+        write_to_file(f"cities_{city_code}.json", data)
+    return data
+
+
 city_data = get_cities()
 for province in city_data:
     get_history(province["cityCode"], True)
     for city in province["children"]:
         if city["cityCode"] != province["cityCode"]:
             get_history(city["cityCode"], False)
+    if len(province["children"]) == 1: # 北京, 天津, 重庆, 上海, 香港, 澳门, 台湾
+        counties = get_counties(province["cityCode"])
+        for county in counties:
+            get_history(county["cityCode"], False)
