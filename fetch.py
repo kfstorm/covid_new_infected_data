@@ -4,6 +4,7 @@ import json
 
 
 URL_PREFIX = "https://wechat.wecity.qq.com/trpcapi/THPneumoniaDataService"
+session = requests.Session()
 
 
 def write_to_file(filename, data):
@@ -15,7 +16,7 @@ def write_to_file(filename, data):
 
 
 def get_data(url, post_body):
-    response = requests.post(url, json=post_body)
+    response = session.post(url, json=post_body)
     data = response.json()
     if data["code"] == 0:
         return data["rsp"]
@@ -82,11 +83,14 @@ def get_counties(city_code):
 
 city_data = get_cities()
 for province in city_data:
+    print("Processing", province["label"], province["cityCode"])
     get_history(province["cityCode"], True)
     for city in province["children"]:
         if city["cityCode"] != province["cityCode"]:
+            print("Processing", city["label"], city["cityCode"])
             get_history(city["cityCode"], False)
     if len(province["children"]) == 1: # 北京, 天津, 重庆, 上海, 香港, 澳门, 台湾
         counties = get_counties(province["cityCode"])
         for county in counties:
+            print("Processing", county["label"], county["cityCode"])
             get_history(county["cityCode"], False)
