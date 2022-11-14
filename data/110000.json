@@ -578,5 +578,15 @@
         "heal": 0,
         "importAdd": 1,
         "localAdd": 161
+    },
+    {
+        "asymptomAdd": 170,
+        "confirm": 240,
+        "date": "20221113",
+        "day": "11.13",
+        "dead": 0,
+        "heal": 0,
+        "importAdd": 3,
+        "localAdd": 237
     }
 ]
