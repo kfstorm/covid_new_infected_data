@@ -464,7 +464,7 @@
         "noinfect": "4"
     },
     {
-        "confirm": 0,
+        "confirm": 5,
         "date": "20221116",
         "day": "20221116",
         "dead": 0,
