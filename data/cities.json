@@ -2013,6 +2013,11 @@
             },
             {
                 "children": [],
+                "cityCode": "659003",
+                "label": "兵团第三师"
+            },
+            {
+                "children": [],
                 "cityCode": "659004",
                 "label": "六师五家渠"
             },
@@ -2020,6 +2025,11 @@
                 "children": [],
                 "cityCode": "659008",
                 "label": "兵团第四师"
+            },
+            {
+                "children": [],
+                "cityCode": "659009",
+                "label": "兵团第十四师"
             },
             {
                 "children": [],
