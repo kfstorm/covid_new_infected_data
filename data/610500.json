@@ -453,15 +453,15 @@
         "day": "20221119",
         "dead": 0,
         "heal": 0,
-        "noinfect": "7"
+        "noinfect": "8"
     },
     {
-        "confirm": 3,
+        "confirm": 4,
         "date": "20221120",
         "day": "20221120",
         "dead": 0,
         "heal": 0,
-        "noinfect": "9"
+        "noinfect": "13"
     },
     {
         "confirm": 3,
