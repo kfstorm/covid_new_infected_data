@@ -1749,6 +1749,11 @@
             },
             {
                 "children": [],
+                "cityCode": "610581",
+                "label": "韩城"
+            },
+            {
+                "children": [],
                 "cityCode": "610600",
                 "label": "延安"
             },
