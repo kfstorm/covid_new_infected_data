@@ -37,6 +37,6 @@
         "day": "20221123",
         "dead": 0,
         "heal": 0,
-        "noinfect": "0"
+        "noinfect": "1"
     }
 ]
