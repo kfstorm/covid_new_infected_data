@@ -464,11 +464,11 @@
         "noinfect": "15"
     },
     {
-        "confirm": 5,
+        "confirm": 16,
         "date": "20221126",
         "day": "20221126",
         "dead": 0,
         "heal": 0,
-        "noinfect": "15"
+        "noinfect": "38"
     }
 ]
