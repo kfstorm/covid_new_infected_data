@@ -1,10 +1,13 @@
 import requests
 import os
 import json
+import time
+import logging
 
 
 URL_PREFIX = "https://wechat.wecity.qq.com/trpcapi/THPneumoniaDataService"
 session = requests.Session()
+logger = logging.Logger(__name__)
 
 
 def write_to_file(filename, data):
@@ -16,8 +19,19 @@ def write_to_file(filename, data):
 
 
 def get_data(url, post_body):
-    response = session.post(url, json=post_body)
-    data = response.json()
+    sleep_time = 1
+    while True:
+        try:
+            response = session.post(url, json=post_body)
+            data = response.json()
+            break
+        except Exception as e:
+            if sleep_time > 32:
+                raise e
+            else:
+                logger.exception(f"Failed to fetch data. Retry after {sleep_time}s.")
+                time.sleep(sleep_time)
+                sleep_time *= 2
     if data["code"] == 0:
         return data["rsp"]
     else:
