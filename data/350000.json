@@ -580,13 +580,13 @@
         "localAdd": 65
     },
     {
-        "asymptomAdd": 119,
-        "confirm": 88,
+        "asymptomAdd": 156,
+        "confirm": 91,
         "date": "20221201",
         "day": "12.01",
         "dead": 0,
         "heal": 0,
-        "importAdd": 23,
-        "localAdd": 65
+        "importAdd": 8,
+        "localAdd": 83
     }
 ]
