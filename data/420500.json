@@ -462,5 +462,13 @@
         "dead": 0,
         "heal": 0,
         "noinfect": "29"
+    },
+    {
+        "confirm": 0,
+        "date": "20221201",
+        "day": "20221201",
+        "dead": 0,
+        "heal": 0,
+        "noinfect": "27"
     }
 ]
