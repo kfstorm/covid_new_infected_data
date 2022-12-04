@@ -1,15 +1,5 @@
 [
     {
-        "asymptomAdd": 50,
-        "confirm": 47,
-        "date": "20221006",
-        "day": "10.06",
-        "dead": 0,
-        "heal": 0,
-        "importAdd": 5,
-        "localAdd": 42
-    },
-    {
         "asymptomAdd": 47,
         "confirm": 51,
         "date": "20221007",
