@@ -581,12 +581,12 @@
     },
     {
         "asymptomAdd": 0,
-        "confirm": 461,
+        "confirm": 544,
         "date": "20221220",
         "day": "12.20",
         "dead": 0,
         "heal": 0,
-        "importAdd": 5,
-        "localAdd": 456
+        "importAdd": 0,
+        "localAdd": 544
     }
 ]
