@@ -571,12 +571,12 @@
     },
     {
         "asymptomAdd": 0,
-        "confirm": 24,
+        "confirm": 29,
         "date": "20230102",
         "day": "01.02",
         "dead": 0,
         "heal": 0,
         "importAdd": 0,
-        "localAdd": 24
+        "localAdd": 29
     }
 ]
